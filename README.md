@@ -1,4 +1,4 @@
-# Projet 4 du Parcours Ingénieur Machine Learning OpenClassrooms Segmentez des clients d'un site e-commerce
+# Projet 4 du Parcours Ingénieur Machine Learning OpenClassrooms                   Segmentez des clients d'un site e-commerce
 
 Olist souhaite que vous fournissiez à ses équipes d'e-commerce une segmentation des clients qu’elles pourront utiliser au quotidien pour leurs campagnes de communication.
 Votre objectif est de comprendre les différents types d’utilisateurs grâce à leur comportement et à leurs données personnelles.
